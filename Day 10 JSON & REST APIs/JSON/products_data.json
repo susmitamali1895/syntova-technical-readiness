@@ -1,0 +1,17 @@
+[
+    {
+        "product_id": 502,
+        "product_name": "Travel Mug",
+        "price": 450
+    },
+    {
+        "product_id": 503,
+        "product_name": "Yoga Mat",
+        "price": 700
+    },
+    {
+        "product_id": 504,
+        "product_name": "Reading Stand",
+        "price": 350
+    }
+]
